@@ -2,7 +2,7 @@
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
-# Ex.No:11
+# Ex.No:11a
   Formulate a C program to convert a given decimal number into its binary equivalent and display it.
 # Date : 
 # Aim:
