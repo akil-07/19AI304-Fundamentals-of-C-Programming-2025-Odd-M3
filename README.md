@@ -4,7 +4,7 @@
 ## 6. Implementation of string manipulation.
 # Ex.No:11
   Formulate a C program to convert a given decimal number into its binary equivalent and display it.
-# Date : 
+# Date : 28/12/2025
 # Aim:
 To formulate a C program to convert a decimal number into its binary equivalent and display it.
 # Algorithm:
@@ -28,7 +28,11 @@ To formulate a C program to convert a decimal number into its binary equivalent 
 ### Step 8: 
    Stop
 # Program:
+<img width="471" height="613" alt="image" src="https://github.com/user-attachments/assets/5927c529-c825-44e5-8f48-995b1c9bfa13" />
+
 # Output:
+<img width="462" height="231" alt="image" src="https://github.com/user-attachments/assets/742c999e-b92c-42ac-bb40-473b064da5bc" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -37,7 +41,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-3- Module 3 - FoC
 # Ex.No:12
   Develop a C program to read a matrix and find its saddle point. A saddle point is an element that is the minimum in its row and also the maximum in its column. If such an element exists, display its position and value.
-# Date : 
+# Date : 28/12/2025
 # Aim:
   To develop a C program that inputs a matrix, checks each row for its minimum element, verifies whether that element is also the maximum in its corresponding column, and displays the saddle point and its position if it exists.
 # Algorithm:
@@ -67,7 +71,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9: 
   Stop
 # Program:
+<img width="607" height="770" alt="image" src="https://github.com/user-attachments/assets/17b8e09a-5b44-4646-8380-4e3a3b7606ab" />
+
 # Output:
+<img width="582" height="35" alt="image" src="https://github.com/user-attachments/assets/00dd315d-cd2b-4464-9236-58a52b768da7" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -76,7 +84,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-3- Module 3 - FoC
 # Ex.No:13
   Formulate a C program to reverse a string entered by the user and display the reversed string.
-# Date : 
+# Date : 28/12/2025
 # Aim:
   To formulate a C program that reads a string from the user, reverses it, and prints the reversed string.
 # Algorithm:
@@ -101,7 +109,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10: 
   Stop
 # Program:
+<img width="315" height="348" alt="image" src="https://github.com/user-attachments/assets/48ddb7e7-67e6-44cd-8ae4-e1edf0db940e" />
+
 # Output:
+<img width="240" height="148" alt="image" src="https://github.com/user-attachments/assets/aa96f818-ab09-4d3b-b4ba-42c0905bee43" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -109,7 +121,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-3- Module 3 - FoC
 # Ex.No:14
   Formulate a C program to count the frequency of each character in a given string and display the count of every character.
-# Date : 
+# Date : 28/12/2025
 # Aim:
   To formulate a C program that accepts a string from the user and calculates the frequency of each character in the string.
 # Algorithm:
@@ -135,7 +147,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:
   Stop
 # Program:
+<img width="421" height="429" alt="image" src="https://github.com/user-attachments/assets/f57b5ce2-4450-4253-8da3-b8760b9f54da" />
+
 # Output:
+<img width="241" height="198" alt="image" src="https://github.com/user-attachments/assets/ab97a46e-155f-4db4-a643-aa8bf9f9e841" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -144,7 +160,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-3- Module 3 - FoC
 # Ex.No:15
   Formulate a C program to remove duplicate words from a given string and display the string with only unique words.
-# Date : 
+# Date : 28/12/2025
 # Aim:
   To formulate a C program to remove duplicate words from a given string and display the string with only unique words.
 # Algorithm:
@@ -169,7 +185,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8: 
   Stop
 # Program:
+<img width="394" height="661" alt="image" src="https://github.com/user-attachments/assets/1acadcc7-9628-43a0-931d-051dad2de810" />
+
 # Output:
+<img width="180" height="135" alt="image" src="https://github.com/user-attachments/assets/34192477-ed20-49b2-a2ec-6f5e7e26c379" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
